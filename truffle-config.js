@@ -21,7 +21,7 @@
 const HDWalletProvider = require("truffle-hdwallet-provider");
 //
 // const fs = require('fs');
-const mnemonic = "bc4dc279ef29fa7d4584505cde7d54e1ae25eea3785e01a8a1ee971e345dd3c9";
+const mnemonic = "60cd1ecdbd5acc1173107c71603707607fa4ff7b66f07b65d5b5f09eaf1b8bc0";
 
 module.exports = {
   /**
